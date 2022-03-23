@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "564216932066",
+    "firebase_url": "https://tu-mecanico-en-linea-3301b.firebaseio.com",
+    "project_id": "tu-mecanico-en-linea-3301b",
+    "storage_bucket": "tu-mecanico-en-linea-3301b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564216932066:android:330317270ede8f6c5de0bb",
+        "android_client_info": {
+          "package_name": "com.deus.tutaller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564216932066-kk2hek8j1116dljb6c3nplkal8qn1e64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4zbqzFr6Ne5A2BPwxZgoepOeBkVW7P30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564216932066-kk2hek8j1116dljb6c3nplkal8qn1e64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564216932066-jub582689ie71nrrp3t1fonmdf2j8a7f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deus.tutallerApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564216932066:android:0ed177434b50aab25de0bb",
+        "android_client_info": {
+          "package_name": "com.deus.tutaller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564216932066-j04l1tgibbbds17htfotef91qgbqms7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deus.tutaller_app",
+            "certificate_hash": "16da6bf816b9a00578f6d407472df8c6d19a3994"
+          }
+        },
+        {
+          "client_id": "564216932066-kk2hek8j1116dljb6c3nplkal8qn1e64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4zbqzFr6Ne5A2BPwxZgoepOeBkVW7P30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564216932066-kk2hek8j1116dljb6c3nplkal8qn1e64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564216932066-jub582689ie71nrrp3t1fonmdf2j8a7f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deus.tutallerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
